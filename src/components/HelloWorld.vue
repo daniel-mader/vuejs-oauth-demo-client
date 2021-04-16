@@ -1,3 +1,5 @@
+<!-- TODO: remove me safely? -->
+
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>

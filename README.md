@@ -1,5 +1,14 @@
 # vuejs-oauth-demo-client
 
+Based on [https://github.com/damienbod/IdentityServer4VueJs]()
+
+## Run Keycloak
+```
+cd keycloak
+chmod +x run.sh
+./run.sh
+```
+
 ## Project setup
 ```
 yarn install

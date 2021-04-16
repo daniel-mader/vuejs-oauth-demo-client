@@ -3,6 +3,7 @@
 docker run \
   --rm \
   --name keycloak_demo \
+  -p 8443:8443 \
   -p 8080:8080 \
   -e DB_VENDOR=H2 \
   -e KEYCLOAK_USER=admin \
